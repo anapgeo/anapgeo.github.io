@@ -5,11 +5,6 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: base
-permalink: /
+layout: home
+permalink: /posts
 ---
-Welcome to my website !!!
-
-
-You can find my projects <a   href="/posts"> here</a>
-
