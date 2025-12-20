@@ -1,0 +1,10 @@
+; AUTORUN.INF
+[autorun]
+open=Msetup4.exe
+icon=.\WIN\res\bitmap\canon_cd.ico
+
+[DeviceInstall]
+DriverPath=WIN\Driver
+
+[DeviceInstall.amd64]
+DriverPath=WIN\Driver

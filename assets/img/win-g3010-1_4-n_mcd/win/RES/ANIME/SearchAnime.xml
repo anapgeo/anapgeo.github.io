@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ANIME xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <file_details>
+    <file num="0">
+      <name>search_1</name>
+      <time>200</time>
+    </file>
+    <file num="1">
+      <name>search_2</name>
+      <time>200</time>
+    </file>
+    <file num="2">
+      <name>search_3</name>
+      <time>200</time>
+    </file>
+    <file num="3">
+      <name>search_4</name>
+      <time>200</time>
+    </file>
+    <file num="4">
+      <name>search_5</name>
+      <time>200</time>
+    </file>
+  </file_details>
+</ANIME>

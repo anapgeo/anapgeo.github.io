@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ANIME xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<file_details>
+		<file num="0">
+			<name>USB01</name>
+			<time>2000</time>
+		</file>
+		<file num="1">
+			<name>USB02</name>
+			<time>2000</time>
+		</file>
+		<file num="2">
+			<name>USB03</name>
+			<time>2000</time>
+		</file>
+		<file num="3">
+			<name>USB04</name>
+			<time>2000</time>
+		</file>
+		<file num="4">
+			<name>USB05</name>
+			<time>2000</time>
+		</file>
+	</file_details>
+</ANIME>

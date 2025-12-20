@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ANIME xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <file_details>
+    <file num="0">
+      <name>Install01</name>
+      <character>MSM6100</character>
+      <time>10000</time>
+    </file>
+    <file num="1">
+      <name>Install03</name>
+      <character>MSM6102</character>
+      <time>10000</time>
+    </file>
+    <file num="2">
+      <name>Install06</name>
+      <character>MSM6105</character>
+      <time>10000</time>
+    </file>
+  </file_details>
+</ANIME>
