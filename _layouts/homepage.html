@@ -49,8 +49,31 @@
         <position style="font-size:1.10rem;">{{ site.position }}</position>
         <br>
         {% endif %}
-        {% if site.affiliation %}
+        {% if site.affiliation1 or site.affiliation2 %}
+        <autocolor>
+        {% if site.affiliation1 %}
+          {% if site.affiliation1_link %}
+          <a href="{{ site.affiliation1_link }}" rel="noopener">{{ site.affiliation1 }}</a>
+          {% else %}
+          {{ site.affiliation1 }}
+          {% endif %}
+        {% endif %}
+        {% if site.affiliation1 and site.affiliation2 %} & {% endif %}
+        {% if site.affiliation2 %}
+          {% if site.affiliation2_link %}
+          <a href="{{ site.affiliation2_link }}" rel="noopener">{{ site.affiliation2 }}</a>
+          {% else %}
+          {{ site.affiliation2 }}
+          {% endif %}
+        {% endif %}
+        </autocolor>
+        <br>
+        {% elsif site.affiliation %}
+        {% if site.affiliation_link %}
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
+        {% else %}
+        <autocolor>{{ site.affiliation }}</autocolor>
+        {% endif %}
         <br>
         {% endif %}
         {% if site.email %}
