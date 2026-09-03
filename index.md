@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! I am **Georgios (George) Anastasiadis**, PhD student at the [Department of Informatics](https://csd.auth.gr/en/home/) of the Aristotle University of Thessaloniki (AUTh), under the supervision of Professor [Georgios Christodoulou](https://sites.google.com/view/gchristo). I earned my Integrated Master's degree (B.Eng & M.Eng) in Electrical and Computer Engineering from AUTh in 2025. My research interests lie at the intersection of theoretical computer science and economics.
+Hi! I am **Georgios (George) Anastasiadis**, PhD student at the [Department of Informatics](https://csd.auth.gr/en/home/) of the Aristotle University of Thessaloniki (AUTh) under the supervision of Professor [Georgios Christodoulou](https://sites.google.com/view/gchristo). I earned my Integrated Master's degree (B.Eng & M.Eng) in Electrical and Computer Engineering from AUTh in 2025. My research interests lie at the intersection of theoretical computer science and economics.
 
 ## Research Interests
 
